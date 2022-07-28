@@ -1,0 +1,99 @@
+footer {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(32, 45, 130);
+    padding: 0px 0px 0px 50px;
+    align-items: center;
+    justify-content: center;
+}
+.textoHero  {
+    font-size: 80px;
+    padding: 0px 300px 200px 0px;
+}
+.textoLorem {
+    font-size: 20px;
+    padding: 0px 250px 100px 0px;
+
+}
+.parrafo {
+    padding: 20px;
+}
+h2 {
+    padding: 20px;
+}
+p {
+    padding: 30px;
+}
+/* CURSOS CARD */
+/*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100VH;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+
+}
+
+.container{
+    width: 50%;
+    display: flex;
+    max-width: 1100px;
+    padding: 0;
+}
+
+.card{
+width: 70%; 
+margin: 20px;
+border-radius: 6px;
+overflow: hidden;
+background: #fff;
+box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+cursor: default;
+transition: all 400ms ease;
+}
+.card:hover{
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+    transform: translateY(-3%);
+
+}
+.card img{
+    width: 100%;
+    text-align: center;
+    
+}
+
+.card .contenido{
+    padding: 15px;
+    text-align: center;
+}
+.card .contenido p{
+    line-height: 1.5;
+    color: #6a6a6a;
+}
+
+.card .contenido h3{
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.card .contenido a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    margin-top: 10px;
+    color: #2fb4cc;
+    border: 1px solid #2fb4cc;
+    border-radius: 4px;
+    transition: all 400ms ease;
+
+}
+.card .contenido a:hover{
+    background: #2fb4cc;
+    color: #fff;
+}
